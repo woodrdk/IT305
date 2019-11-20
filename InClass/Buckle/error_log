@@ -1,0 +1,11 @@
+[23-Oct-2019 17:36:38 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/rwoodgre/public_html/305/InClass/Buckle/index.php on line 16
+[23-Oct-2019 17:36:38 UTC] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/rwoodgre/public_html/305/InClass/Buckle/index.php on line 16
+[23-Oct-2019 17:36:38 UTC] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/rwoodgre/public_html/305/InClass/Buckle/index.php on line 16
+[23-Oct-2019 17:46:09 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$' in /home/rwoodgre/public_html/305/InClass/Buckle/index.php on line 43
+[23-Oct-2019 17:46:14 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$' in /home/rwoodgre/public_html/305/InClass/Buckle/index.php on line 43
+[23-Oct-2019 17:46:17 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$' in /home/rwoodgre/public_html/305/InClass/Buckle/index.php on line 43
+[23-Oct-2019 17:46:24 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$' in /home/rwoodgre/public_html/305/InClass/Buckle/index.php on line 43
+[23-Oct-2019 17:46:44 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$' in /home/rwoodgre/public_html/305/InClass/Buckle/index.php on line 43
+[23-Oct-2019 17:46:48 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$' in /home/rwoodgre/public_html/305/InClass/Buckle/index.php on line 43
+[23-Oct-2019 17:46:50 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$' in /home/rwoodgre/public_html/305/InClass/Buckle/index.php on line 43
+[23-Oct-2019 18:10:52 UTC] PHP Parse error:  syntax error, unexpected '(int)' (int) (T_INT_CAST), expecting variable (T_VARIABLE) in /home/rwoodgre/public_html/305/InClass/functions.php on line 53
